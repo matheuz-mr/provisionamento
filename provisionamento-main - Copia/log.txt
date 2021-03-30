@@ -1,0 +1,43 @@
+
+data: 25/03/21 15:34  Jose-Cesar  NAP-6223   ALCL:B345F279  ('1-1-4-14', 1)  10.65.100.11   mariacdss1
+data: 25/03/21 16:28  Renardio  NAP-1221   ALCL:B345FBA3  ('1-1-1-12', 9)  10.65.100.11   marciopj
+data: 25/03/21 16:39  Vitor  NAP-9214   ALCL:B345EF01  ('1-1-2-12', 11)  10.65.100.12   cristianocm
+data: 25/03/21 16:54  Willes  NAP-8523  ALCL:B1A2677C  ('1-1-2-5', 6)  10.65.100.12  thainarass
+data: 25/03/21 17:29  Jose Cesar  NAP-8223   ALCL:B1A2D4EF  ('1-1-2-2', 6)  10.65.100.12   edsondst
+data: 25/03/21 17:37  Caio  NAP-8224  ALCL:B2F898D5  ('1-1-2-2', 17)  10.65.100.12  gleinyprs
+data: 25/03/21 17:44  Willes  NAP-8523  ALCL:B1A2677C  ('1-1-2-5', 6)  10.65.100.12  thainarass
+data: 25/03/21 17:52  Willes  NAP-8523  ALCL:B1A29E22  ('1-1-2-5', 6)  10.65.100.12  thainarass
+data: 26/03/21 08:50  Edgar  teste   asd  ('1-1-3-16', 1)  10.65.100.12   asd
+data: 26/03/21 08:54  Edgar  NAP-0111   qwe  ('1-1-1-1', 3)  10.65.100.11   qwe
+data: 26/03/21 08:55  Edgar  teste   123  ('1-1-3-16', 1)  10.65.100.12   123
+data: 26/03/21 08:56  Edgar  NAP-36424   123  ('1-1-4-16', 3)  10.65.91.14   123
+data: 26/03/21 09:02  Edgar  NAP-0111   123  ('1-1-1-1', 3)  10.65.100.11   123
+data: 26/03/21 10:21  Juracy  NAP-22314  ALCL:B1A2BF91  ('1-1-2-7', 4)  10.65.100.13  lucaszas
+data: 26/03/21 10:23  Juracy  NAP-22314   ALCL:B1A2BF91  ('1-1-2-7', 4)  10.65.100.13   lucaszas
+data: 26/03/21 10:28  Willes  NAP-7714  ALCL:B2F8D9CA  ('1-1-1-13', 4)  10.65.100.12  joseniltonso
+data: 26/03/21 16:06  Rodrigo  NAP-2921   ALCL:FBCC2710  ('1-1-2-13', 7)  10.65.100.11   fellypejsc
+data: 26/03/21 16:37  Rodrigo  NAP-3013  ALCL:FBCC2710  ('1-1-2-14', 9)  10.65.100.11  fellypejsc
+data: 27/03/21 09:08  Jose Cesar  NAP-5912   ALCL:B345FDDD  ('1-1-4-11', 2)  10.65.100.11   ritiellets
+data: 27/03/21 09:31  Caio  NAP-8924  ALCL:B345DDC2  ('1-1-2-9', 4)  10.65.100.12  alvimdg
+data: 27/03/21 09:50  Willes  NAP-3424  ALCL:B345DFFA  ('1-1-3-2', 18)  10.65.100.11  euclediamdas
+data: 27/03/21 10:14  Caio  NAP-8924  ALCL:B345DDC2  ('1-1-2-9', 4)  10.65.100.12  alvimdg
+data: 27/03/21 10:18  Caio  NAP-8924  ALCL:B345DDC2  ('1-1-2-9', 4)  10.65.100.12  alvimdg
+data: 27/03/21 10:30  Jose Cesar  NAP-5512  ALCL:B345C4AF  ('1-1-4-7', 3)  10.65.100.11  vaniards
+data: 27/03/21 10:36  Vitor  NAP-2521  ALCL:B345E4AE  ('1-1-2-9', 8)  10.65.100.11  warleygcdo
+data: 27/03/21 10:38  Caio  NAP-3224  ALCL:B345C291  ('1-1-2-16', 12)  10.65.100.11  tiagodcds
+data: 27/03/21 10:41  Rodrigo  NAP-7812  ALCL:B1A286CE  ('1-1-1-14', 1)  10.65.100.12  eliasca1
+data: 27/03/21 10:51  Willes  NAP-3013  ALCL:B1A2A587  ('1-1-2-14', 12)  10.65.100.11   ioneml
+data: 27/03/21 11:54  Renardio  NAP-0212   ALCLFA5D6B8A  ('1-1-1-2', 24)  10.65.100.11   flaviackba
+data: 27/03/21 12:17  Vitor  NAP-0521  ALCL:FBE2D620  ('1-1-1-5', 31)  10.65.100.11  placidioradc
+data: 29/03/21 17:01  Jose Cesar  NAP-0513  ALCL:B1A27FD4  ('1-1-1-5', 83)  10.65.100.11   brunocb
+data: 30/03/21 08:52  Jose Cesar  NAP-39624   ALCL:B1A2A258  ('1-1-6-16', 1)  10.65.91.14   fabriciommdm
+data: 30/03/21 08:57  Jose Cesar  NAP-5011   ALCL:B1A2A258  ('1-1-4-2', 1)  10.65.100.11   fabriciommdm
+data: 30/03/21 09:23  Joelson  NAP-22324  ALCL:B1A2D773  ('1-1-2-7', 6)  10.65.100.13  thaisbda
+data: 30/03/21 09:29  Ricardo  NAP-0113  ALCL:B345DED6  ('1-1-1-1', 3)  10.65.100.11  cristinaods
+data: 30/03/21 09:32  Caio  NAP-8724  ALCL:B1A2ABC3  ('1-1-2-7', 8)  10.65.100.12  ronivaldoan
+data: 30/03/21 09:34  Renardio  NAP-10012  ALCL:B1A2B32E  ('1-1-3-4', 36)  10.65.100.12  renatorv
+data: 30/03/21 10:11  Ricardo  NAP-0224  ALCL:B1A2678B  ('1-1-1-2', 36)  10.65.100.11  denilsonrds
+data: 30/03/21 10:14  Jose Cesar  NAP-5014  ALCL:FBE16A4A  ('1-1-4-2', 2)  10.65.100.11  emivaneads
+data: 30/03/21 10:40  Vitor  NAP-0214  ALCL:B3460683  ('1-1-1-2', 89)  10.65.100.11  hernandessa
+data: 30/03/21 11:00  Juracy  NAP-22422  ALCL:B345F5B5  ('1-1-2-8', 2)  10.65.100.13  rubensams
+data: 30/03/21 14:07  Juracy  NAP-20521  ALCL:B1A2AF02  ('1-1-1-5', 3)  10.65.100.13  lorrane
