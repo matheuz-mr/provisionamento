@@ -1,9 +1,0 @@
-
-data: 25/03/21 15:34  Jose-Cesar  NAP-6223   ALCL:B345F279  ('1-1-4-14', 1)  10.65.100.11   mariacdss1
-data: 25/03/21 16:28  Renardio  NAP-1221   ALCL:B345FBA3  ('1-1-1-12', 9)  10.65.100.11   marciopj
-data: 25/03/21 16:39  Vitor  NAP-9214   ALCL:B345EF01  ('1-1-2-12', 11)  10.65.100.12   cristianocm
-data: 25/03/21 16:54  Willes  NAP-8523  ALCL:B1A2677C  ('1-1-2-5', 6)  10.65.100.12  thainarass
-data: 25/03/21 17:29  Jose Cesar  NAP-8223   ALCL:B1A2D4EF  ('1-1-2-2', 6)  10.65.100.12   edsondst
-data: 25/03/21 17:37  Caio  NAP-8224  ALCL:B2F898D5  ('1-1-2-2', 17)  10.65.100.12  gleinyprs
-data: 25/03/21 17:44  Willes  NAP-8523  ALCL:B1A2677C  ('1-1-2-5', 6)  10.65.100.12  thainarass
-data: 25/03/21 17:52  Willes  NAP-8523  ALCL:B1A29E22  ('1-1-2-5', 6)  10.65.100.12  thainarass
