@@ -1,0 +1,72 @@
+
+Nome do host:                              LAPTOP-N2P52CTI
+Nome do sistema operacional:               Microsoft Windows 10 Home Single Language
+Vers∆o do sistema operacional:             10.0.18363 N/A compilaá∆o 18363
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   mt.mrnh.esp@gmail.com
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00327-30810-43736-AAOEM
+Data da instalaá∆o original:               06/03/2020, 14:07:39
+Tempo de Inicializaá∆o do Sistema:         13/03/2021, 10:21:11
+Fabricante do sistema:                     SAMSUNG ELECTRONICS CO., LTD.
+Modelo do sistema:                         550XBE/350XBE
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~1600 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. P11REU.089.201204.JJ, 04/12/2020
+Pasta do Windows:                          C:\windows
+Pasta do sistema:                          C:\windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.084 MB
+Mem¢ria f°sica dispon°vel:                 2.865 MB
+Mem¢ria Virtual: Tamanho M†ximo:           11.293 MB
+Mem¢ria Virtual: Dispon°vel:               3.410 MB
+Mem¢ria Virtual: Em Uso:                   7.883 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\LAPTOP-N2P52CTI
+Hotfix(es):                                22 hotfix(es) instalado(s).
+                                           [01]: KB4601056
+                                           [02]: KB4497165
+                                           [03]: KB4497727
+                                           [04]: KB4506933
+                                           [05]: KB4517245
+                                           [06]: KB4535680
+                                           [07]: KB4537759
+                                           [08]: KB4541338
+                                           [09]: KB4552152
+                                           [10]: KB4559309
+                                           [11]: KB4560959
+                                           [12]: KB4561600
+                                           [13]: KB4565554
+                                           [14]: KB4569073
+                                           [15]: KB4576751
+                                           [16]: KB4577670
+                                           [17]: KB4580325
+                                           [18]: KB4586863
+                                           [19]: KB4598479
+                                           [20]: KB4601395
+                                           [21]: KB5000908
+                                           [22]: KB5000808
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe FE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [02]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.15.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.15.8
+                                                 [02]: fe80::801a:a2c4:d038:aaf4
+                                                 [03]: 2804:7f3:58c:ce10:7976:acce:2335:574
+                                                 [04]: 2804:7f3:58c:ce10:801a:a2c4:d038:aaf4
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim
